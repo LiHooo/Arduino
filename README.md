@@ -1,4 +1,4 @@
-# Arduino
+# WS2812ForESP8266(Arduino)
 ## ESP8266驱动WS2812时，即使使用FastLED库，也是有问题的，我发现在驱动WS2812时，个别LED回随机的闪烁， 
 ### 0.驱动WS2812每bit时间为1.25us(0.4us+0.85us) 
 
